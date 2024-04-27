@@ -18,7 +18,7 @@ This is a proper working website which displays dummy data fetched from database
 ```
 npm init -y
 ```
-3. Then open package.json which looks like this:
+3. Then open `package.json` which looks like this:
 ```json
 {
   "name": "javascript",
@@ -37,4 +37,15 @@ Paste the below code below `"main": "index.js",` in package.json file.
 ```json
 "main": "index.js",
 ```
-  
+4. Then download these following dependencies one by one:
+```
+npm install express
+npm install mongoose
+npm install path
+```
+5. Make all the neccessary adjustment in the code
+6. Then run the `server.js` file with this command:
+```
+node server.js
+```
+7.Here you are! Now u have a proper working website
