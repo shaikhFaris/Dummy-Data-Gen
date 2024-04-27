@@ -1,25 +1,7 @@
 const prEl=document.getElementById("pr")
 const copyBtn=document.querySelector(".copy")
 const genBtn=document.querySelector("#gen-btn")
-// let testJson={
-//     Name:"hello",
-//     salary:24000,
-//     language:24,
-//     city:"Bangalore",
-//     company:"Nvidia",
-//     os:"linux",
-//     married:true
-// }
-// let arr=Object.values(testJson) // obj is converted into an array
-// prEl.innerText=`{
-//     name:${testJson.Name},
-//     salary:${testJson.salary},
-//     language:${testJson.language},
-//     city:${testJson.city},
-//     company:${testJson.company},
-//     OS:${testJson.os},
-//     married:${testJson.married}
-// }`
+
 function copy()
 {
     window.alert("copy it manually")
