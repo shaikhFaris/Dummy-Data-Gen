@@ -1,3 +1,4 @@
+// this is where u set modwl for your collection in your database
 import mongoose from "mongoose";
 
 const employeeSchema = new mongoose.Schema({ 
