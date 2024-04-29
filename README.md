@@ -35,7 +35,7 @@ npm init -y
 ```
 Paste the below code below `"main": "index.js",` in package.json file.
 ```json
-"main": "index.js",
+"type": "module",
 ```
 4. Then download these following dependencies one by one:
 ```
