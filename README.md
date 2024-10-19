@@ -1,5 +1,5 @@
 # Dummy Data Generator
-
+![screenshot of this website](https://github.com/shaikhFaris/Dummy-Data-Gen/blob/main/Screenshot%202024-10-19%20194630.png)
 ## Description
 This is a proper working website which displays dummy data fetched from database. You can host this website This website can provide u with dummy data which u can use to learn CRUD operations in mongodb. This project was made using these technologies:
 * HTML
